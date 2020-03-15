@@ -21,8 +21,8 @@ webpack provides code on demand using the moniker code splitting. The Technical 
 
 <a name="references"></a>
 ## 2. Official references websites. 
-webpack official website : https://webpack.js.org <br />
-webpack official documentation website : https://webpack.js.org/concepts <br />
+Babel official website : https://babeljs.io/ <br />
+babel official GitHub repository : https://github.com/babel/babel <br />
 
 **_Babel questions and answers_** <br />
 Stack Overflow questions and answers : https://stackoverflow.com <br />
